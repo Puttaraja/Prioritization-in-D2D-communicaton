@@ -7,5 +7,7 @@ K - means algorithm is used for clustering.
 Results are verified by calculating
 SINR, Through- put and end to end delay of all the shards/clusters which are created.
 
+Project is done in ns3-psc.
+
 
 Report : https://github.com/kausthubtm/Sharding-in-ns3-psc/blob/main/report.pdf
